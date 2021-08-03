@@ -67,6 +67,7 @@
 											<option>ronaldo@teste.com</option>
 											<option>carlos@teste.com</option>
 											<option>maicon@teste.com</option>
+											<option>maicon@teste.com</option>
 											<option>Outro...</option>
 										</select>
 									</div>
