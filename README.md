@@ -13,9 +13,8 @@ A API usa o formato PHP para retornar as mensagens dos visitantes e criar novas 
 
 # Consumo via Navegador
 
-O endereço da API é https://chamados.azurewebsites.net/ através dele podemos consumir a API pelo navegador.
-
+O endereço da API é https://chamados.azurewebsites.net/ através dele podemos consumir a API pelo navegdor.
 # Considerações finais
 
 Foi um trabalho simples, pois foi feito com pouca participação do grupo, exceto o Lucas Menezes Prudencio de Oliveira, que me ajudou bastante para versionar no Azure, espero que goste do projeto. 
-
+http://chamados.orgfree.com/
