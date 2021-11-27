@@ -18,6 +18,11 @@
 
 </head>
 <body>
+	<form action="upload.php" method="post" enctype="multipart/form-data">
+  Select image to upload:
+  <input type="file" name="fileToUpload" id="fileToUpload">
+  <input type="submit" value="Upload Image" name="submit">
+</form>
 	<nav class="navbar navbar-white bg-white">
 		<a href="#" class="navbar-brand">
 			<img src="logo.jpg" width="33" height="33" class="d-inline-block align-top">
