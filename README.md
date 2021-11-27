@@ -13,8 +13,7 @@ A API usa o formato PHP para retornar as mensagens dos visitantes e criar novas 
 
 # Consumo via Navegador
 
-O endereço da API é http://projetoallsafe.000webhostapp.com/// através dele podemos consumir a API pelo navegdor.
+O endereço da API é http://projetoallsafe.000webhostapp.com// através dele podemos consumir a API pelo navegdor.
 # Considerações finais
 
 Foi um trabalho simples,  porem  trabalhoso .
-
